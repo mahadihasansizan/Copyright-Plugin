@@ -38,12 +38,12 @@ This white-label version of the Copyright Plugin allows agencies to customize th
 1. **Plugin Name and Description**: Open the main plugin file (`copyright-plugin.php`) and modify the `Plugin Name` and `Description` in the plugin header.
 
    
-   /*
-   Plugin Name: Your Custom Plugin Name
+   
+   Plugin Name: Your Custom Plugin Name 
    Description: Your Custom Description Here
    Version: 1.0
    Author: Your Name
-   */
+  
 
 ## Branding:  
 You can replace all instances of branding within the codebase with your agency's information. Search for phrases like "Copyright Plugin" or "Powered by Copyright Plugin" in the code and replace them with your agency's branding.
