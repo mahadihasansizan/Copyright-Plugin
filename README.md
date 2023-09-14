@@ -45,7 +45,8 @@ This white-label version of the Copyright Plugin allows agencies to customize th
    Author: Your Name
    */
 
-## Branding: You can replace all instances of branding within the codebase with your agency's information. Search for phrases like "Copyright Plugin" or "Powered by Copyright Plugin" in the code and replace them with your agency's branding.
+## Branding:  
+You can replace all instances of branding within the codebase with your agency's information. Search for phrases like "Copyright Plugin" or "Powered by Copyright Plugin" in the code and replace them with your agency's branding.
 
 ## Support and Issues
 If you encounter any issues or have questions about the White-Label Copyright Plugin, please visit our GitHub repository for documentation and support.
