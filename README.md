@@ -39,10 +39,10 @@ This white-label version of the Copyright Plugin allows agencies to customize th
 
    
    
-   Plugin Name: Your Custom Plugin Name 
+   `Plugin Name: Your Custom Plugin Name 
    Description: Your Custom Description Here
    Version: 1.0
-   Author: Your Name
+   Author: Your Name`
   
 
 ## Branding:  
